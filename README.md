@@ -74,19 +74,24 @@ Total Liabilities
 ---
 Cash Flow Activities
 
-🎯 Use Cases
+Use Cases
+```bash
 Financial analysis of Nifty 100 companies
 Business intelligence reporting
 Investment research
 Sector performance comparison
 Corporate financial benchmarking
+```
 
-📸 Dashboard Highlights
+Dashboard Highlights
+```bash
 Interactive charts
 Financial trend analysis
 Company comparison dashboards
 Sector-wise insights
 Profitability analysis
+```
+
 ---
 👩‍💻 Author
 
