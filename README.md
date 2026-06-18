@@ -42,10 +42,17 @@ git clone https://github.com/sardarswati2027-ji/Nifty-100-Financial-Intelligence
 ```
 ---
 Install Dependencies
+```bash
 pip install -r requirements.txt
+```
+---
 Run the Application
+```bash
 streamlit run app.py
+```
+---
 📊 Database Schema
+```bash
 Companies Table
 Company ID
 Company Name
@@ -63,33 +70,29 @@ Reserves
 Borrowings
 Total Assets
 Total Liabilities
+```
+---
 Cash Flow Activities
+
 🎯 Use Cases
 Financial analysis of Nifty 100 companies
 Business intelligence reporting
 Investment research
 Sector performance comparison
 Corporate financial benchmarking
+
 📸 Dashboard Highlights
 Interactive charts
 Financial trend analysis
 Company comparison dashboards
 Sector-wise insights
 Profitability analysis
-🤝 Contributing
-
-Contributions, issues, and feature requests are welcome.
-
-📜 License
-
-This project is licensed under the MIT License.
-
+---
 👩‍💻 Author
 
 Swati Sardar
 
 Data Analytics & Financial Technology Enthusiast
-
 
 ---
 
